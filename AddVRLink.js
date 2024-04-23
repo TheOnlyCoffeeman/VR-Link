@@ -29,8 +29,8 @@
     subMenu.setAttribute('role', 'menu');
     subMenu.className = 'dropdown-menu';
     subMenu.innerHTML = `
-        <li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://theonlycoffeeman.itch.io/dino-game-vr">Itch.io</a></li>
-        <li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://github.com/">Github</a></li>
+        <li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://theonlycoffeeman.itch.io/dino-game-vr">Játék!</a></li>
+        <li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://github.com/TheOnlyCoffeeman/DinoGameVR">Github</a></li>
     `;
 
     // Find the list item before which you want to insert the new item
